@@ -1,0 +1,22 @@
+--- State of the chain ---
+14
+3
+Will
+2
+0
+MonkeyTakesBanana.png
+2
+1
+PerfectMovieNight.png
+2
+2
+FungiblePringlesCan.png
+2
+3
+BunnyRabbitThing.png
+2
+4
+BoredApeOCDontSteal.png
+2
+5
+BitcoinUseCase.png
